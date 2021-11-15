@@ -7,6 +7,8 @@ import { Card, CardContent, Typography, Grid } from '@material-ui/core'
 export const FiveDaysWeatherList = (props) => {
   const { weatherFiveDays } = props
   const classes = useStyles()
+  //
+  //
   return (
     <Grid container direction='row' spacing={1}>
       {weatherFiveDays &&
