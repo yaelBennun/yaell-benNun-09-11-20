@@ -1,0 +1,760 @@
+{
+  "data": {
+    "autocompleteSearch": [
+      {
+        "Version": 1,
+        "Key": "215854",
+        "Type": "City",
+        "Rank": 31,
+        "LocalizedName": "Tel Aviv",
+        "Country": { "ID": "IL", "LocalizedName": "Israel" },
+        "AdministrativeArea": { "ID": "TA", "LocalizedName": "Tel Aviv" }
+      },
+      {
+        "Version": 1,
+        "Key": "316938",
+        "Type": "City",
+        "Rank": 10,
+        "LocalizedName": "Ankara",
+        "Country": {
+          "ID": "TR",
+          "LocalizedName": "Turkey"
+        },
+        "AdministrativeArea": {
+          "ID": "06",
+          "LocalizedName": "Ankara"
+        }
+      },
+      {
+        "Version": 1,
+        "Key": "56912",
+        "Type": "City",
+        "Rank": 13,
+        "LocalizedName": "Anqing",
+        "Country": {
+          "ID": "CN",
+          "LocalizedName": "China"
+        },
+        "AdministrativeArea": {
+          "ID": "AH",
+          "LocalizedName": "Anhui"
+        }
+      },
+      {
+        "Version": 1,
+        "Key": "59083",
+        "Type": "City",
+        "Rank": 15,
+        "LocalizedName": "Anyang",
+        "Country": {
+          "ID": "CN",
+          "LocalizedName": "China"
+        },
+        "AdministrativeArea": {
+          "ID": "HA",
+          "LocalizedName": "Henan"
+        }
+      },
+      {
+        "Version": 1,
+        "Key": "102138",
+        "Type": "City",
+        "Rank": 15,
+        "LocalizedName": "Anshan",
+        "Country": {
+          "ID": "CN",
+          "LocalizedName": "China"
+        },
+        "AdministrativeArea": {
+          "ID": "LN",
+          "LocalizedName": "Liaoning"
+        }
+      },
+      {
+        "Version": 1,
+        "Key": "227088",
+        "Type": "City",
+        "Rank": 20,
+        "LocalizedName": "Antananarivo",
+        "Country": {
+          "ID": "MG",
+          "LocalizedName": "Madagascar"
+        },
+        "AdministrativeArea": {
+          "ID": "T",
+          "LocalizedName": "Antananarivo"
+        }
+      },
+      {
+        "Version": 1,
+        "Key": "58492",
+        "Type": "City",
+        "Rank": 23,
+        "LocalizedName": "Anshun",
+        "Country": {
+          "ID": "CN",
+          "LocalizedName": "China"
+        },
+        "AdministrativeArea": {
+          "ID": "GZ",
+          "LocalizedName": "Guizhou"
+        }
+      },
+      {
+        "Version": 1,
+        "Key": "59468",
+        "Type": "City",
+        "Rank": 23,
+        "LocalizedName": "Anhua County",
+        "Country": {
+          "ID": "CN",
+          "LocalizedName": "China"
+        },
+        "AdministrativeArea": {
+          "ID": "HN",
+          "LocalizedName": "Hunan"
+        }
+      },
+      {
+        "Version": 1,
+        "Key": "60986",
+        "Type": "City",
+        "Rank": 23,
+        "LocalizedName": "Anyue County",
+        "Country": {
+          "ID": "CN",
+          "LocalizedName": "China"
+        },
+        "AdministrativeArea": {
+          "ID": "SC",
+          "LocalizedName": "Sichuan"
+        }
+      },
+      {
+        "Version": 1,
+        "Key": "60594",
+        "Type": "City",
+        "Rank": 23,
+        "LocalizedName": "Anqiu",
+        "Country": {
+          "ID": "CN",
+          "LocalizedName": "China"
+        },
+        "AdministrativeArea": {
+          "ID": "SD",
+          "LocalizedName": "Shandong"
+        }
+      },
+      {
+        "Version": 1,
+        "Key": "60452",
+        "Type": "City",
+        "Rank": 23,
+        "LocalizedName": "Ankang",
+        "Country": {
+          "ID": "CN",
+          "LocalizedName": "China"
+        },
+        "AdministrativeArea": {
+          "ID": "SN",
+          "LocalizedName": "Shaanxi"
+        }
+      },
+      {
+        "Version": 1,
+        "Key": "101924",
+        "Type": "City",
+        "Rank": 10,
+        "LocalizedName": "Beijing",
+        "Country": {
+          "ID": "CN",
+          "LocalizedName": "China"
+        },
+        "AdministrativeArea": {
+          "ID": "BJ",
+          "LocalizedName": "Beijing"
+        }
+      },
+      {
+        "Version": 1,
+        "Key": "107487",
+        "Type": "City",
+        "Rank": 10,
+        "LocalizedName": "Bogota",
+        "Country": {
+          "ID": "CO",
+          "LocalizedName": "Colombia"
+        },
+        "AdministrativeArea": {
+          "ID": "DC",
+          "LocalizedName": "Distrito Capital de Bogotá"
+        }
+      },
+      {
+        "Version": 1,
+        "Key": "178087",
+        "Type": "City",
+        "Rank": 10,
+        "LocalizedName": "Berlin",
+        "Country": {
+          "ID": "DE",
+          "LocalizedName": "Germany"
+        },
+        "AdministrativeArea": {
+          "ID": "BE",
+          "LocalizedName": "Berlin"
+        }
+      },
+      {
+        "Version": 1,
+        "Key": "207375",
+        "Type": "City",
+        "Rank": 10,
+        "LocalizedName": "Baghdad",
+        "Country": {
+          "ID": "IQ",
+          "LocalizedName": "Iraq"
+        },
+        "AdministrativeArea": {
+          "ID": "BG",
+          "LocalizedName": "Baghdad"
+        }
+      },
+      {
+        "Version": 1,
+        "Key": "318849",
+        "Type": "City",
+        "Rank": 10,
+        "LocalizedName": "Bangkok",
+        "Country": {
+          "ID": "TH",
+          "LocalizedName": "Thailand"
+        },
+        "AdministrativeArea": {
+          "ID": "10",
+          "LocalizedName": "Bangkok"
+        }
+      },
+      {
+        "Version": 1,
+        "Key": "204108",
+        "Type": "City",
+        "Rank": 11,
+        "LocalizedName": "Bengaluru",
+        "Country": {
+          "ID": "IN",
+          "LocalizedName": "India"
+        },
+        "AdministrativeArea": {
+          "ID": "KA",
+          "LocalizedName": "Karnataka"
+        }
+      },
+      {
+        "Version": 1,
+        "Key": "222888",
+        "Type": "City",
+        "Rank": 11,
+        "LocalizedName": "Busan",
+        "Country": {
+          "ID": "KR",
+          "LocalizedName": "South Korea"
+        },
+        "AdministrativeArea": {
+          "ID": "26",
+          "LocalizedName": "Busan"
+        }
+      },
+      {
+        "Version": 1,
+        "Key": "56913",
+        "Type": "City",
+        "Rank": 13,
+        "LocalizedName": "Bengbu",
+        "Country": {
+          "ID": "CN",
+          "LocalizedName": "China"
+        },
+        "AdministrativeArea": {
+          "ID": "AH",
+          "LocalizedName": "Anhui"
+        }
+      },
+      {
+        "Version": 1,
+        "Key": "58493",
+        "Type": "City",
+        "Rank": 13,
+        "LocalizedName": "Bijie",
+        "Country": {
+          "ID": "CN",
+          "LocalizedName": "China"
+        },
+        "AdministrativeArea": {
+          "ID": "GZ",
+          "LocalizedName": "Guizhou"
+        }
+      },
+      {
+        "Version": 1,
+        "Key": "61041",
+        "Type": "City",
+        "Rank": 13,
+        "LocalizedName": "Bazhong",
+        "Country": {
+          "ID": "CN",
+          "LocalizedName": "China"
+        },
+        "AdministrativeArea": {
+          "ID": "SC",
+          "LocalizedName": "Sichuan"
+        }
+      },
+      {
+        "Version": 1,
+        "Key": "127164",
+        "Type": "City",
+        "Rank": 10,
+        "LocalizedName": "Cairo",
+        "Country": {
+          "ID": "EG",
+          "LocalizedName": "Egypt"
+        },
+        "AdministrativeArea": {
+          "ID": "C",
+          "LocalizedName": "Cairo"
+        }
+      },
+      {
+        "Version": 1,
+        "Key": "102144",
+        "Type": "City",
+        "Rank": 11,
+        "LocalizedName": "Chongqing",
+        "Country": {
+          "ID": "CN",
+          "LocalizedName": "China"
+        },
+        "AdministrativeArea": {
+          "ID": "CQ",
+          "LocalizedName": "Chongqing"
+        }
+      },
+      {
+        "Version": 1,
+        "Key": "105567",
+        "Type": "City",
+        "Rank": 11,
+        "LocalizedName": "Changsha",
+        "Country": {
+          "ID": "CN",
+          "LocalizedName": "China"
+        },
+        "AdministrativeArea": {
+          "ID": "HN",
+          "LocalizedName": "Hunan"
+        }
+      },
+      {
+        "Version": 1,
+        "Key": "105915",
+        "Type": "City",
+        "Rank": 11,
+        "LocalizedName": "Changchun",
+        "Country": {
+          "ID": "CN",
+          "LocalizedName": "China"
+        },
+        "AdministrativeArea": {
+          "ID": "JL",
+          "LocalizedName": "Jilin"
+        }
+      },
+      {
+        "Version": 1,
+        "Key": "106774",
+        "Type": "City",
+        "Rank": 11,
+        "LocalizedName": "Chengdu",
+        "Country": {
+          "ID": "CN",
+          "LocalizedName": "China"
+        },
+        "AdministrativeArea": {
+          "ID": "SC",
+          "LocalizedName": "Sichuan"
+        }
+      },
+      {
+        "Version": 1,
+        "Key": "206671",
+        "Type": "City",
+        "Rank": 11,
+        "LocalizedName": "Chennai",
+        "Country": {
+          "ID": "IN",
+          "LocalizedName": "India"
+        },
+        "AdministrativeArea": {
+          "ID": "TN",
+          "LocalizedName": "Tamil Nadu"
+        }
+      },
+      {
+        "Version": 1,
+        "Key": "243353",
+        "Type": "City",
+        "Rank": 11,
+        "LocalizedName": "Casablanca",
+        "Country": {
+          "ID": "MA",
+          "LocalizedName": "Morocco"
+        },
+        "AdministrativeArea": {
+          "ID": "06",
+          "LocalizedName": "Casablanca-Settat"
+        }
+      },
+      {
+        "Version": 1,
+        "Key": "58670",
+        "Type": "City",
+        "Rank": 13,
+        "LocalizedName": "Cangzhou",
+        "Country": {
+          "ID": "CN",
+          "LocalizedName": "China"
+        },
+        "AdministrativeArea": {
+          "ID": "HE",
+          "LocalizedName": "Hebei"
+        }
+      },
+      {
+        "Version": 1,
+        "Key": "59414",
+        "Type": "City",
+        "Rank": 13,
+        "LocalizedName": "Changde",
+        "Country": {
+          "ID": "CN",
+          "LocalizedName": "China"
+        },
+        "AdministrativeArea": {
+          "ID": "HN",
+          "LocalizedName": "Hunan"
+        }
+      },
+      {
+        "Version": 1,
+        "Key": "59572",
+        "Type": "City",
+        "Rank": 13,
+        "LocalizedName": "Changzhou",
+        "Country": {
+          "ID": "CN",
+          "LocalizedName": "China"
+        },
+        "AdministrativeArea": {
+          "ID": "JS",
+          "LocalizedName": "Jiangsu"
+        }
+      },
+      {
+        "Version": 1,
+        "Key": "28143",
+        "Type": "City",
+        "Rank": 10,
+        "LocalizedName": "Dhaka",
+        "Country": {
+          "ID": "BD",
+          "LocalizedName": "Bangladesh"
+        },
+        "AdministrativeArea": {
+          "ID": "C",
+          "LocalizedName": "Dhaka"
+        }
+      },
+      {
+        "Version": 1,
+        "Key": "202396",
+        "Type": "City",
+        "Rank": 11,
+        "LocalizedName": "Delhi",
+        "Country": {
+          "ID": "IN",
+          "LocalizedName": "India"
+        },
+        "AdministrativeArea": {
+          "ID": "DL",
+          "LocalizedName": "Delhi"
+        }
+      },
+      {
+        "Version": 1,
+        "Key": "58185",
+        "Type": "City",
+        "Rank": 13,
+        "LocalizedName": "Dongguan",
+        "Country": {
+          "ID": "CN",
+          "LocalizedName": "China"
+        },
+        "AdministrativeArea": {
+          "ID": "GD",
+          "LocalizedName": "Guangdong"
+        }
+      },
+      {
+        "Version": 1,
+        "Key": "102133",
+        "Type": "City",
+        "Rank": 13,
+        "LocalizedName": "Dalian",
+        "Country": {
+          "ID": "CN",
+          "LocalizedName": "China"
+        },
+        "AdministrativeArea": {
+          "ID": "LN",
+          "LocalizedName": "Liaoning"
+        }
+      },
+      {
+        "Version": 1,
+        "Key": "60971",
+        "Type": "City",
+        "Rank": 13,
+        "LocalizedName": "Deyang",
+        "Country": {
+          "ID": "CN",
+          "LocalizedName": "China"
+        },
+        "AdministrativeArea": {
+          "ID": "SC",
+          "LocalizedName": "Sichuan"
+        }
+      },
+      {
+        "Version": 1,
+        "Key": "60631",
+        "Type": "City",
+        "Rank": 13,
+        "LocalizedName": "Dezhou",
+        "Country": {
+          "ID": "CN",
+          "LocalizedName": "China"
+        },
+        "AdministrativeArea": {
+          "ID": "SD",
+          "LocalizedName": "Shandong"
+        }
+      },
+      {
+        "Version": 1,
+        "Key": "61417",
+        "Type": "City",
+        "Rank": 13,
+        "LocalizedName": "Dali Prefecture",
+        "Country": {
+          "ID": "CN",
+          "LocalizedName": "China"
+        },
+        "AdministrativeArea": {
+          "ID": "YN",
+          "LocalizedName": "Yunnan"
+        }
+      },
+      {
+        "Version": 1,
+        "Key": "2333431",
+        "Type": "City",
+        "Rank": 15,
+        "LocalizedName": "Dazhou",
+        "Country": {
+          "ID": "CN",
+          "LocalizedName": "China"
+        },
+        "AdministrativeArea": {
+          "ID": "SC",
+          "LocalizedName": "Sichuan"
+        }
+      },
+      {
+        "Version": 1,
+        "Key": "106771",
+        "Type": "City",
+        "Rank": 15,
+        "LocalizedName": "Datong",
+        "Country": {
+          "ID": "CN",
+          "LocalizedName": "China"
+        },
+        "AdministrativeArea": {
+          "ID": "SX",
+          "LocalizedName": "Shanxi"
+        }
+      },
+      {
+        "Version": 1,
+        "Key": "297442",
+        "Type": "City",
+        "Rank": 20,
+        "LocalizedName": "Dakar",
+        "Country": {
+          "ID": "SN",
+          "LocalizedName": "Senegal"
+        },
+        "AdministrativeArea": {
+          "ID": "DK",
+          "LocalizedName": "Dakar"
+        }
+      }
+    ],
+    "currentConditions": [
+      {
+        "LocalObservationDateTime": "2021-11-12T11:56:00+02:00",
+        "EpochTime": 1636710960,
+        "WeatherText": "Partly sunny",
+        "WeatherIcon": 3,
+        "HasPrecipitation": false,
+        "PrecipitationType": null,
+        "IsDayTime": true,
+        "Temperature": {
+          "Metric": {
+            "Value": 28.3,
+            "Unit": "C",
+            "UnitType": 17
+          },
+          "Imperial": {
+            "Value": 83.0,
+            "Unit": "F",
+            "UnitType": 18
+          }
+        },
+        "MobileLink": "http://www.accuweather.com/en/il/tel-aviv/215854/current-weather/215854?lang=en-us",
+        "Link": "http://www.accuweather.com/en/il/tel-aviv/215854/current-weather/215854?lang=en-us"
+      }
+    ],
+    "forecastsFiveDays": {
+      "Headline": {
+        "EffectiveDate": "2021-11-12T19:00:00+02:00",
+        "EffectiveEpochDate": 1636736400,
+        "Severity": 7,
+        "Text": "Very warm Friday night",
+        "Category": "heat",
+        "EndDate": "2021-11-13T07:00:00+02:00",
+        "EndEpochDate": 1636779600,
+        "MobileLink": "http://www.accuweather.com/en/il/tel-aviv/215854/daily-weather-forecast/215854?lang=en-us",
+        "Link": "http://www.accuweather.com/en/il/tel-aviv/215854/daily-weather-forecast/215854?lang=en-us"
+      },
+      "DailyForecasts": [
+        {
+          "Date": "2021-11-12T07:00:00+02:00",
+          "EpochDate": 1636693200,
+          "Temperature": {
+            "Minimum": { "Value": 71.0, "Unit": "F", "UnitType": 18 },
+            "Maximum": { "Value": 83.0, "Unit": "F", "UnitType": 18 }
+          },
+          "Day": {
+            "Icon": 4,
+            "IconPhrase": "Intermittent clouds",
+            "HasPrecipitation": false
+          },
+          "Night": {
+            "Icon": 35,
+            "IconPhrase": "Partly cloudy",
+            "HasPrecipitation": false
+          },
+          "Sources": ["AccuWeather"],
+          "MobileLink": "http://www.accuweather.com/en/il/tel-aviv/215854/daily-weather-forecast/215854?day=1&lang=en-us",
+          "Link": "http://www.accuweather.com/en/il/tel-aviv/215854/daily-weather-forecast/215854?day=1&lang=en-us"
+        },
+        {
+          "Date": "2021-11-13T07:00:00+02:00",
+          "EpochDate": 1636779600,
+          "Temperature": {
+            "Minimum": { "Value": 69.0, "Unit": "F", "UnitType": 18 },
+            "Maximum": { "Value": 86.0, "Unit": "F", "UnitType": 18 }
+          },
+          "Day": {
+            "Icon": 4,
+            "IconPhrase": "Intermittent clouds",
+            "HasPrecipitation": false
+          },
+          "Night": {
+            "Icon": 38,
+            "IconPhrase": "Mostly cloudy",
+            "HasPrecipitation": false
+          },
+          "Sources": ["AccuWeather"],
+          "MobileLink": "http://www.accuweather.com/en/il/tel-aviv/215854/daily-weather-forecast/215854?day=2&lang=en-us",
+          "Link": "http://www.accuweather.com/en/il/tel-aviv/215854/daily-weather-forecast/215854?day=2&lang=en-us"
+        },
+        {
+          "Date": "2021-11-14T07:00:00+02:00",
+          "EpochDate": 1636866000,
+          "Temperature": {
+            "Minimum": { "Value": 67.0, "Unit": "F", "UnitType": 18 },
+            "Maximum": { "Value": 85.0, "Unit": "F", "UnitType": 18 }
+          },
+          "Day": {
+            "Icon": 5,
+            "IconPhrase": "Hazy sunshine",
+            "HasPrecipitation": false
+          },
+          "Night": {
+            "Icon": 34,
+            "IconPhrase": "Mostly clear",
+            "HasPrecipitation": false
+          },
+          "Sources": ["AccuWeather"],
+          "MobileLink": "http://www.accuweather.com/en/il/tel-aviv/215854/daily-weather-forecast/215854?day=3&lang=en-us",
+          "Link": "http://www.accuweather.com/en/il/tel-aviv/215854/daily-weather-forecast/215854?day=3&lang=en-us"
+        },
+        {
+          "Date": "2021-11-15T07:00:00+02:00",
+          "EpochDate": 1636952400,
+          "Temperature": {
+            "Minimum": { "Value": 66.0, "Unit": "F", "UnitType": 18 },
+            "Maximum": { "Value": 82.0, "Unit": "F", "UnitType": 18 }
+          },
+          "Day": {
+            "Icon": 6,
+            "IconPhrase": "Mostly cloudy",
+            "HasPrecipitation": false
+          },
+          "Night": {
+            "Icon": 33,
+            "IconPhrase": "Clear",
+            "HasPrecipitation": false
+          },
+          "Sources": ["AccuWeather"],
+          "MobileLink": "http://www.accuweather.com/en/il/tel-aviv/215854/daily-weather-forecast/215854?day=4&lang=en-us",
+          "Link": "http://www.accuweather.com/en/il/tel-aviv/215854/daily-weather-forecast/215854?day=4&lang=en-us"
+        },
+        {
+          "Date": "2021-11-16T07:00:00+02:00",
+          "EpochDate": 1637038800,
+          "Temperature": {
+            "Minimum": { "Value": 67.0, "Unit": "F", "UnitType": 18 },
+            "Maximum": { "Value": 79.0, "Unit": "F", "UnitType": 18 }
+          },
+          "Day": {
+            "Icon": 5,
+            "IconPhrase": "Hazy sunshine",
+            "HasPrecipitation": false
+          },
+          "Night": {
+            "Icon": 34,
+            "IconPhrase": "Mostly clear",
+            "HasPrecipitation": false
+          },
+          "Sources": ["AccuWeather"],
+          "MobileLink": "http://www.accuweather.com/en/il/tel-aviv/215854/daily-weather-forecast/215854?day=5&lang=en-us",
+          "Link": "http://www.accuweather.com/en/il/tel-aviv/215854/daily-weather-forecast/215854?day=5&lang=en-us"
+        }
+      ]
+    }
+  }
+}
