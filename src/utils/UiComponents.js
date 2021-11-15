@@ -4,7 +4,6 @@ import {
   Button,
   TextField,
   CardContent,
-  CardActions,
   CardActionArea
 } from '@material-ui/core'
 import Autocomplete from '@material-ui/lab/Autocomplete'
@@ -132,12 +131,6 @@ export const StyleContentCard = withStyles((theme) => ({
 }))(CardContent)
 export const StyleActionsCard = withStyles((theme) => ({
   root: {
-    // padding: '.7rem',
-    // maxWidth: '18rem',
-    // width: '18rem',
-    // '&:last-child': {
-    //   padding: '.7rem'
-    // }
     backgroundColor: '#f8fcfb'
   }
 }))(CardActionArea)
@@ -175,9 +168,6 @@ export const useStyles = makeStyles((theme) => ({
   warning: {
     color: '#FBC02D'
   },
-  preTradeCheck: {
-    color: '#EF5350'
-  },
   weatherMainItem: {
     backgroundColor: '#f8fcfb',
     borderRadius: 4,
@@ -185,34 +175,5 @@ export const useStyles = makeStyles((theme) => ({
   },
   currentWeatherItem: {
     marginBottom: '5rem'
-  },
-  customisedScrollbar: {
-    '&::-webkit-scrollbar': {
-      width: '3px',
-      height: '3px'
-    },
-    '&::-webkit-scrollbar-track': {
-      boxShadow: 'inset 0 0 5px grey',
-      borderRadius: '10px'
-      // marginTop: 50
-    },
-    '&::-webkit-scrollbar-thumb': {
-      backgroundColor: '#FFFFFF',
-      borderRadius: '10px'
-    }
-  },
-  customizedBtn: {
-    textTransform: 'capitalize',
-    backgroundColor: '#0396E6',
-    color: '#FFFFFF',
-    fontWeight: 400,
-    fontSize: 12,
-    padding: '4px 8px',
-    width: '100%',
-    borderRadius: 0,
-    // marginTop: 3,
-    '&:hover': {
-      backgroundColor: '#0396E6'
-    }
   }
 }))

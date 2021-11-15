@@ -172,7 +172,6 @@ export const getWeatherItemFormat = () => async (dispatch) => {}
 //       obj.dayOfWeek = days[a.getDay()]
 //       obj.temperature = v.Temperature
 //       formatedWeatherArray.push(obj)
-//       console.log(obj)
 //     })
 //     dispatch({
 //       type: WEATHER_FIVE_DAYS_SUCCESS,
@@ -196,14 +195,12 @@ export const getWeatherItemFormat = () => async (dispatch) => {}
 //     }
 //     try {
 //       const resData = MainConfig.data.currentConditions
-//       console.log(resData[0])
 //       let currWether = {
 //         cityKey,
 //         localizedName,
 //         weatherText: resData[0].WeatherText,
 //         temperature: resData[0].Temperature
 //       }
-//       console.log(currWether)
 //       dispatch({
 //         type: WEATHER_CURRENT_SUCCESS,
 //         payload: currWether,
