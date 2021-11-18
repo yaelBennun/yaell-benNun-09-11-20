@@ -4,7 +4,7 @@ export const WEATHER_URLS = {
   CURRENT_CONDITIONS: '/currentconditions/v1/'
 }
 
-export const BASE_URL = 'http://dataservice.accuweather.com'
+export const BASE_URL = 'https://dataservice.accuweather.com'
 
 export default {
   WEATHER_URLS,
