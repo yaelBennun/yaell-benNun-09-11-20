@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/-yaell-benNun09-11-20/static/css/main.2ae47eeb.chunk.css",
-    "main.js": "/-yaell-benNun09-11-20/static/js/main.69163f8e.chunk.js",
-    "main.js.map": "/-yaell-benNun09-11-20/static/js/main.69163f8e.chunk.js.map",
-    "runtime-main.js": "/-yaell-benNun09-11-20/static/js/runtime-main.2dc1c4e2.js",
-    "runtime-main.js.map": "/-yaell-benNun09-11-20/static/js/runtime-main.2dc1c4e2.js.map",
-    "static/js/2.17c6a096.chunk.js": "/-yaell-benNun09-11-20/static/js/2.17c6a096.chunk.js",
-    "static/js/2.17c6a096.chunk.js.map": "/-yaell-benNun09-11-20/static/js/2.17c6a096.chunk.js.map",
-    "static/js/3.738ba2bf.chunk.js": "/-yaell-benNun09-11-20/static/js/3.738ba2bf.chunk.js",
-    "static/js/3.738ba2bf.chunk.js.map": "/-yaell-benNun09-11-20/static/js/3.738ba2bf.chunk.js.map",
-    "index.html": "/-yaell-benNun09-11-20/index.html",
-    "static/css/main.2ae47eeb.chunk.css.map": "/-yaell-benNun09-11-20/static/css/main.2ae47eeb.chunk.css.map",
-    "static/js/2.17c6a096.chunk.js.LICENSE.txt": "/-yaell-benNun09-11-20/static/js/2.17c6a096.chunk.js.LICENSE.txt"
+    "main.css": "/yaell-benNun-09-11-20/static/css/main.2ae47eeb.chunk.css",
+    "main.js": "/yaell-benNun-09-11-20/static/js/main.69163f8e.chunk.js",
+    "main.js.map": "/yaell-benNun-09-11-20/static/js/main.69163f8e.chunk.js.map",
+    "runtime-main.js": "/yaell-benNun-09-11-20/static/js/runtime-main.badb3853.js",
+    "runtime-main.js.map": "/yaell-benNun-09-11-20/static/js/runtime-main.badb3853.js.map",
+    "static/js/2.17c6a096.chunk.js": "/yaell-benNun-09-11-20/static/js/2.17c6a096.chunk.js",
+    "static/js/2.17c6a096.chunk.js.map": "/yaell-benNun-09-11-20/static/js/2.17c6a096.chunk.js.map",
+    "static/js/3.738ba2bf.chunk.js": "/yaell-benNun-09-11-20/static/js/3.738ba2bf.chunk.js",
+    "static/js/3.738ba2bf.chunk.js.map": "/yaell-benNun-09-11-20/static/js/3.738ba2bf.chunk.js.map",
+    "index.html": "/yaell-benNun-09-11-20/index.html",
+    "static/css/main.2ae47eeb.chunk.css.map": "/yaell-benNun-09-11-20/static/css/main.2ae47eeb.chunk.css.map",
+    "static/js/2.17c6a096.chunk.js.LICENSE.txt": "/yaell-benNun-09-11-20/static/js/2.17c6a096.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2dc1c4e2.js",
+    "static/js/runtime-main.badb3853.js",
     "static/js/2.17c6a096.chunk.js",
     "static/css/main.2ae47eeb.chunk.css",
     "static/js/main.69163f8e.chunk.js"
